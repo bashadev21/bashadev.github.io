@@ -1,0 +1,13 @@
+<svg width="56" height="57" viewBox="0 0 56 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="_Play button" filter="url(#filter0_b_1370_2348)">
+<path id="Button" fill-rule="evenodd" clip-rule="evenodd" d="M0 28.6665C0 44.1305 12.536 56.6665 28 56.6665C43.464 56.6665 56 44.1305 56 28.6665C56 13.2025 43.464 0.666504 28 0.666504C12.536 0.666504 0 13.2025 0 28.6665ZM17.7295 24.2915L26.5328 40.0415C27.1849 41.2082 28.8151 41.2082 29.4672 40.0415L38.2705 24.2915C38.9226 23.1248 38.1075 21.6665 36.8033 21.6665L19.1967 21.6665C17.8925 21.6665 17.0774 23.1248 17.7295 24.2915Z" fill="white" fill-opacity="0.3"/>
+</g>
+<defs>
+<filter id="filter0_b_1370_2348" x="-16" y="-15.3335" width="88" height="88" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="8"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1370_2348"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1370_2348" result="shape"/>
+</filter>
+</defs>
+</svg>
